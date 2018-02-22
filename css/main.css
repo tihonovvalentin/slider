@@ -1,0 +1,103 @@
+.slider-for{
+	position: relative;
+	height:500px;
+
+}
+
+
+
+.slider1{
+	background: url(../img/tom.jpg) no-repeat top center/cover;
+	color:#fff;
+	font-size: 25px;
+	text-align: center;
+	height:500px;
+}
+
+.slider1__nav{
+	background: url(../img/tom.jpg) no-repeat top center/cover;
+	color:#fff;
+	font-size: 25px;
+	text-align: center;
+	height:150px;
+	width:150px;
+
+}
+
+.slider2{
+	background: url(../img/cap.jpg) no-repeat top center/cover;
+	color:#fff;
+	font-size: 25px;
+	text-align: center;
+	height:500px;
+
+}
+
+.slider2__nav{
+	background: url(../img/cap.jpg) no-repeat top center/cover;
+	color:#fff;
+	font-size: 25px;
+	text-align: center;
+	height:150px;
+	width:150px;
+}
+
+.slider3{
+	background: url(../img/john.jpg) no-repeat top center/cover;
+	color:#fff;
+	font-size: 25px;
+	text-align: center;
+	height:500px;
+
+}
+
+.slider3__nav{
+	background: url(../img/john.jpg) no-repeat top center/cover;
+	color:#fff;
+	font-size: 25px;
+	text-align: center;
+	height:150px;
+	width:150px;
+}
+
+.slider4{
+	background: url(../img/house.jpg) no-repeat top center/cover;
+	color:#fff;
+	font-size: 25px;
+	text-align: center;
+	height:500px;
+
+}
+
+.slider4__nav{
+	background: url(../img/house.jpg) no-repeat top center/cover;
+	color:#fff;
+	font-size: 25px;
+	text-align: center;
+	height:150px;
+	width:150px;
+}
+
+.fa-chevron-left{
+	padding:7px 10px 7px 8px;
+	background-color: grey;
+	color:#fff;
+	border-radius: 20px;
+	position:absolute;
+	top:30%;
+	left:18%;
+}
+
+.fa-chevron-right{
+	padding:7px 8px 7px 10px;
+	background-color: grey;
+	color:#fff;
+	border-radius: 20px;
+	position:absolute;
+	top:30%;
+	right:18%;
+}
+
+.slider-nav{
+	height:50px;
+}
